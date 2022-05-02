@@ -1,5 +1,10 @@
 # Stupid-Simple CLI (terminal) Stopwatch
 
+
+![screenshot](./images/screenshot.png)
+
+---
+
 ## Build
 
 #### 1. Clone the source
