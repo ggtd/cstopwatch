@@ -8,7 +8,7 @@
 #### 2. Change directory
 > cd cstopwatch
 
-#### 3. 
+#### 3. Build
 > gcc ./cstopwatch.c -o cstopwatch
 
 done!
