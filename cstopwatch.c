@@ -68,8 +68,7 @@ void SecondsToHumanReadable(int n_seconds)
     sprintf(human_time_elapsed_s, "%d %s", seconds,s_sufix);
     strcat(output_text,human_time_elapsed_s);
 
-//    printf("%s%s\r",human_time_elapsed_m,human_time_elapsed_s);
-    printf("%s : %s\r",output_prefix,output_text);
+    printf("%s : %s   \r",output_prefix,output_text);
     fflush(stdout);
 };
 
