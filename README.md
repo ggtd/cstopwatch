@@ -2,11 +2,14 @@
 
 ## Build
 
-1. Clone the source
+#### 1. Clone the source
+> git clone https://github.com/ggtd/cstopwatch.git
 
-2. cd cstopwatch
+#### 2. Change directory
+> cd cstopwatch
 
-3. gcc ./cstopwatch.c -o cstopwatch
+#### 3. 
+> gcc ./cstopwatch.c -o cstopwatch
 
 done!
 
@@ -23,6 +26,7 @@ Enjoy!
 
 
 ### TODOs:
+- [ ] makefile for build and install
 - [ ] defina custom label as command line option, to display in the stopwatch.
 - [ ] detect key press of key "p" to pause / resume. + display the "PAUSE" status.
 
