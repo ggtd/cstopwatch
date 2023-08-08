@@ -32,7 +32,7 @@ Enjoy!
 
 ### TODOs:
 - [ ] makefile for build and install
-- [ ] defina custom label as command line option, to display in the stopwatch.
+- [ ] define custom label as command line option, to display in the stopwatch.
 - [ ] detect key press of key "p" to pause / resume. + display the "PAUSE" status.
 
 
