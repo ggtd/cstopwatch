@@ -26,7 +26,7 @@ Just run ./cstopwatch
 
 
 #### Disclaimer & Basic Info
-This app is only my personal C-learning project. Use it on your own risk. If you want to use the source, then please use in any way. Or fork and send me your merge-requests.
+This app is only my personal C-language "learning project". Use it on your own risk. If you want to use the source, then please use in any way. Or fork and send me your merge-requests.
 Enjoy!
 
 
